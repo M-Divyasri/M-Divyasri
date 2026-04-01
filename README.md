@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hi there 👋 I'm M. Divyasri
 
-<!--
-**M-Divyasri/M-Divyasri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ✅ WORKING ANIMATED INTRO -->
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;WordPress+Developer;Building+Creative+Web+Applications;Always+Learning+New+Things+🚀" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <b>Turning ideas into real-world applications 🚀</b>
+</p>
+
+---
+
+## 🚀 About Me
+
+💡 I'm a passionate **Java Full Stack Developer** and **WordPress Developer**
+
+🌱 I enjoy building scalable web applications and creative websites
+
+🔧 Love working on both frontend and backend
+
+🐞 Problem solver & continuous learner
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,spring,django,flask" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🧠 Concepts
+
+OOPs • Data Structures • Microservices (Basics)
+
+---
+
+## 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode" />
+</p>
+
+---
+
+## 🔗 Social Profiles
+
+💼 LinkedIn: [M. Divyasri](https://www.linkedin.com/in/mdivyasri/)
+🧠 LeetCode: [M_Divyasri](https://leetcode.com/u/M_Divyasri/)
+
+---
+
+## 📫 Contact Me
+
+📩 Email: [your-email@example.com](mailto:your-email@example.com)
+💼 LinkedIn: [M. Divyasri](https://www.linkedin.com/in/mdivyasri/)
+
+---
+
+⭐ *“Code. Learn. Build. Repeat.”*
