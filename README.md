@@ -1,9 +1,9 @@
-# Hi there 👋 I'm M. Divyasri
+# Hello I'm M. Divyasri
 
 <!-- ✅ WORKING ANIMATED INTRO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;WordPress+Developer;React+%7C+Spring+Boot+%7C+Python;Building+Real+World+Projects;Always+Learning+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;WordPress+Developer;React+%7C+Spring+Boot+%7C+Python;Building+Real+World+Projects;Always+Learning+🚀" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,spring,django,flask" />
+  <img src="https://skillicons.dev/icons?i=java,python,php,spring,django" />
 </p>
 
 ### 🗄️ Database
@@ -44,32 +44,35 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+## 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="48" />
+</p>
+
 ### 🧠 Concepts
 
 OOPs • Data Structures • Microservices (Basics)
 
 ---
 
-## 🧰 Tools
+## 🧠 LeetCode Progress
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,idea,vscode" />
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/M_Divyasri?theme=dark&font=Baloo" />
 </p>
-
----
-
-## 🔗 Social Profiles
-
-💼 [LinkedIn](https://www.linkedin.com/in/mdivyasri/)
-🧠 [LeetCode](https://leetcode.com/u/M_Divyasri/)
 
 ---
 
 ## 📫 Contact Me
 
 📩 [Email](mailto:divyasri652005@gmail.com)
+
 💼 [LinkedIn](https://www.linkedin.com/in/mdivyasri/)
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*
+<p align="center">
+  ⭐ <b>"Code. Learn. Build. Repeat."</b> ⭐
+</p>
