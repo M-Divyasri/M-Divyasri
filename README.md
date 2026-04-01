@@ -3,7 +3,7 @@
 <!-- ✅ WORKING ANIMATED INTRO -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;WordPress+Developer;Building+Creative+Web+Applications;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Java+Full+Stack+Developer;WordPress+Developer;React+%7C+Spring+Boot+%7C+Python;Building+Real+World+Projects;Always+Learning+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -60,15 +60,15 @@ OOPs • Data Structures • Microservices (Basics)
 
 ## 🔗 Social Profiles
 
-💼 LinkedIn: [M. Divyasri](https://www.linkedin.com/in/mdivyasri/)
-🧠 LeetCode: [M_Divyasri](https://leetcode.com/u/M_Divyasri/)
+💼 [LinkedIn](https://www.linkedin.com/in/mdivyasri/)
+🧠 [LeetCode](https://leetcode.com/u/M_Divyasri/)
 
 ---
 
 ## 📫 Contact Me
 
-📩 Email: [your-email@example.com](mailto:your-email@example.com)
-💼 LinkedIn: [M. Divyasri](https://www.linkedin.com/in/mdivyasri/)
+📩 [Email](mailto:divyasri652005@gmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/mdivyasri/)
 
 ---
 
